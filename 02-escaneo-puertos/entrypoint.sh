@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Dirección del servidor objetivo en la DMZ
-HOST="servidor-web-dmz.onrender.com"
+HOST="https://cliente-lan-nchk.onrender.com"
 
 echo "=== INICIANDO ESCANEO DE PUERTOS Y RECONOCIMIENTO EN LA DMZ ==="
 echo "Analizando puertos comunes..."
